@@ -1,4 +1,4 @@
-<div align="center"><img src="https://revistaanalytica.com.br/wp-content/uploads/2020/03/culturing-cells-tissue-culture-plates-260nw-216981568.jpg"></div>
+<div align="center"><img src="https://www.splabor.com.br/blog/wp-content/uploads/2017/04/Cultivo-de-C%C3%A9lulas.png"></div>
 
 # Imersão de dados da Alura
 
