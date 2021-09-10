@@ -1,3 +1,5 @@
+<div align="center"><img src="https://revistaanalytica.com.br/wp-content/uploads/2020/03/culturing-cells-tissue-culture-plates-260nw-216981568.jpg"></div>
+
 # Imersão de dados da Alura
 
 Projeto realizado durante a imersão de dados da Alura.
